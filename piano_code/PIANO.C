@@ -1,3 +1,12 @@
+/*
+ * @Date        : 2020-05-31 16:52:23
+ * @LastEditors : anlzou
+ * @Github      : https://github.com/anlzou
+ * @LastEditTime: 2020-05-31 17:11:21
+ * @FilePath    : \piano-YQ\piano_code\PIANO.C
+ * @Describe    :
+ */
+
 #include "myhead.h"
 
 void show_piano() {
